@@ -9,7 +9,7 @@
 
 Для работы с Git необходимо установить на локальный компьютер Git по ссылке https://git-scm.com/download
 
-а также Visual Studio Code по ссылке https://code.visualstudio.com/
+а также Visual Studio Code по ссылке https://code.visualstudio.com/download
 
 1. Создать папку на ПК
 2. Запустить VS code

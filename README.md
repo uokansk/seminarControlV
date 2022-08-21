@@ -26,3 +26,5 @@
 * git log -журнал изменений
 * git chekout -переходить от одной версии файлов к другой
 *  git checkout master -переходна главную ветку
+
+C:\Users\kapa-\Desktop\seminarControlV\space.jpg

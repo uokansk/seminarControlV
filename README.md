@@ -26,5 +26,6 @@
 * git log -журнал изменений
 * git chekout -переходить от одной версии файлов к другой
 *  git checkout master -переходна главную ветку
+* git status -отображает состояние рабочего каталога и раздела проиндексированных файлов
 
-C:\Users\kapa-\Desktop\seminarControlV\space.jpg
+![а теперь картинка](/images/space.jpg)

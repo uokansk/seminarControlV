@@ -13,7 +13,7 @@
 
 бесплатный тренажер по Git https://learngitbranching.js.org/
 
-1. Создать папку на ПК например seminarControlV или lesson
+1. Создать папку на ПК например seminarControlV или lesson и внести исправления на 3 ветке
 2. Запустить VS code
 3. Открыть папку в VS code
 4. Открыть терминал

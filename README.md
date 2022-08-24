@@ -13,7 +13,7 @@
 
 бесплатный тренажер по Git https://learngitbranching.js.org/
 
-1. Создать папку на ПК
+1. Создать папку на ПК паример seminarControlV
 2. Запустить VS code
 3. Открыть папку в VS code
 4. Открыть терминал

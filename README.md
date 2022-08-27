@@ -36,12 +36,14 @@
 
 как подписать картинку? "! [ подпись ]( /path / img . jpg " Дополнительное описание ")"
 
-
 сообщение для task3 v2
-            
+ 
 ## Команды из второго семинара
 
 * git branch branch_name - создает новую ветку
 * git checkout branch_name -переходит на указанную ветку
 * git merge branch_name -присоеденить к существующей ветке указанную ветку
 * git branch -d branch_name -удалить присоедененную ветку
+
+
+![основные команды Git](/images/instructionGit.jpg)

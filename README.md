@@ -34,4 +34,5 @@
 ![а теперь картинка](/images/space.jpg)
 
 сообщение для task3 v2
-            
+
+![основные команды Git](/images/instructionGit.jpg)

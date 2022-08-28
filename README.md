@@ -50,4 +50,4 @@
 
 ![основные команды Git](/images/plan.jpg)
 
-![основные команды Git](/images/planSeptember.jpg)!
+![основные команды Git](/images/planSeptember.jpg)

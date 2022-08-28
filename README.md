@@ -47,3 +47,7 @@
 
 
 ![основные команды Git](/images/instructionGit.jpg)
+
+![основные команды Git](/images/plan.jpg)
+
+![основные команды Git](/images/planSeptember.jpg)!
